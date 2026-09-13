@@ -1,11 +1,11 @@
 {
   "expo": {
-    "name": "full-stack-open-react-native",
-    "slug": "full-stack-open-react-native",
+    "name": "rate-repository-app",
+    "slug": "rate-repository-app",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/images/icon.png",
-    "scheme": "fullstackopenreactnative",
+    "scheme": "raterepositoryapp",
     "userInterfaceStyle": "automatic",
     "ios": {
       "icon": "./assets/expo.icon"
